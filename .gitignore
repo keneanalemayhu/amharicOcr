@@ -15,9 +15,6 @@ models/
 amharic_dataset/train/
 amharic_dataset/val/
 
-# Ignore fonts (assuming they are large or not versioned)
-fonts/
-
 # Ignore logs and debug files
 *.log
 debug_loader.py
