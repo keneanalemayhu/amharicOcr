@@ -1,0 +1,25 @@
+amharicOCR/
+├── amharic_dataset
+│   ├── train
+│   ├── val
+│   └── char_mappings.txt
+├── env.pt
+├── fonts/
+├── models/
+├── src/
+│   ├── inference/
+│   │   └── inference.py
+│   ├── training/
+│   │   ├── data_loader.py
+│   │   └── generated_dataset.py
+│   └── utils/
+│       └── analysis/
+│           ├── analyze_errors.py
+│           ├── character_analysis.py
+│           ├── generate_char_mapping.py
+│           └── training_visualization.py
+├── dataset_validator.py
+├── debug_loader.py
+├── model.py
+├── requirements.txt
+└── structure.txt

@@ -1,0 +1,31 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore model checkpoints and training artifacts
+models/
+*.pt
+
+# Ignore dataset files
+amharic_dataset/train/
+amharic_dataset/val/
+
+# Ignore fonts (assuming they are large or not versioned)
+fonts/
+
+# Ignore logs and debug files
+*.log
+debug_loader.py
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
