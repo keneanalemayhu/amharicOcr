@@ -1,0 +1,42 @@
+
+Image: ሀ.png
+Prediction: ሀ (confidence: 17.55%)
+Top 3 predictions:
+  ሀ: 17.55%
+  ህ: 17.43%
+  ሪ: 9.10%
+
+Image: ሀ_0002.png
+Prediction: ሀ (confidence: 99.65%)
+Top 3 predictions:
+  ሀ: 99.65%
+  ህ: 0.33%
+  ሃ: 0.01%
+
+Image: ለ.png
+Prediction: ጷ (confidence: 18.81%)
+Top 3 predictions:
+  ጷ: 18.81%
+  ፗ: 8.26%
+  ፩: 7.08%
+
+Image: ለ_0002.png
+Prediction: ለ (confidence: 100.00%)
+Top 3 predictions:
+  ለ: 100.00%
+  ላ: 0.00%
+  ሊ: 0.00%
+
+Image: ሐ.png
+Prediction: ሔ (confidence: 49.41%)
+Top 3 predictions:
+  ሔ: 49.41%
+  ሐ: 16.27%
+  10: 9.84%
+
+Image: ሐ_0005.png
+Prediction: ሐ (confidence: 99.95%)
+Top 3 predictions:
+  ሐ: 99.95%
+  ሖ: 0.04%
+  ሓ: 0.01%

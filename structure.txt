@@ -3,13 +3,18 @@ amharicOCR/
 │   ├── train
 │   ├── val
 │   └── char_mappings.txt
-├── env.pt
+│
 ├── fonts/
 ├── models/
+│   ├── best_model.pt
+│   └── checkpoint_epoch.pt           -- from 5-50
+│
 ├── src/
 │   ├── inference/
 │   │   └── inference.py
 │   ├── training/
+│   │   ├── __pycache__/
+│   │   │   └── data_loader.cpython-313.pyc
 │   │   ├── data_loader.py
 │   │   └── generated_dataset.py
 │   └── utils/
@@ -18,6 +23,8 @@ amharicOCR/
 │           ├── character_analysis.py
 │           ├── generate_char_mapping.py
 │           └── training_visualization.py
+│
+├── .gitignore
 ├── dataset_validator.py
 ├── debug_loader.py
 ├── model.py
